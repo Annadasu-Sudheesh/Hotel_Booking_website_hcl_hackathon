@@ -1,4 +1,4 @@
-package com.hotelbooking.config;
+package com.example.backend.config;
 
 import org.springframework.context.annotation.Configuration;
 

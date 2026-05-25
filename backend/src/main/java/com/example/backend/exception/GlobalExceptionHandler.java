@@ -1,4 +1,4 @@
-package com.hotelbooking.exception;
+package com.example.backend.exception;
 
 import org.springframework.web.bind.annotation.ControllerAdvice;
 

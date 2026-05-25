@@ -1,4 +1,4 @@
-package com.hotelbooking.dto;
+package com.example.backend.dto;
 
 public class RoomDto {
     private Long id;

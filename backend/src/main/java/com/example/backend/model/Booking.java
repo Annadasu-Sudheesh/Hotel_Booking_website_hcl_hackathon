@@ -1,5 +1,4 @@
-package com.hotelbooking.model;
-
+package com.example.backend.model;
 import java.time.LocalDate;
 
 import jakarta.persistence.Entity;
