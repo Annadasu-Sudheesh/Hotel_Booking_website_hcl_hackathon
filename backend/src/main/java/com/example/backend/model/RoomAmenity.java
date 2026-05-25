@@ -1,4 +1,5 @@
-package com.example.backend.model;
+﻿package com.example.backend.model;
+
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
@@ -20,3 +21,4 @@ public class RoomAmenity {
     public Long getAmenityId() { return amenityId; }
     public void setAmenityId(Long amenityId) { this.amenityId = amenityId; }
 }
+

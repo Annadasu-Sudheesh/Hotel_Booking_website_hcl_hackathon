@@ -1,4 +1,4 @@
-package com.example.backend.controller;
+﻿package com.example.backend.controller;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;
@@ -17,3 +17,4 @@ public class BookingController {
         return ResponseEntity.ok("create booking stub");
     }
 }
+

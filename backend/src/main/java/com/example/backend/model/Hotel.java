@@ -1,4 +1,5 @@
-package com.example.backend.model;
+﻿package com.example.backend.model;
+
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
@@ -20,3 +21,4 @@ public class Hotel {
     public String getAddress() { return address; }
     public void setAddress(String address) { this.address = address; }
 }
+
