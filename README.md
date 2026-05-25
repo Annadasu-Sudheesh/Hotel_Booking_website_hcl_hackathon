@@ -17,34 +17,6 @@ The project now starts with mock hotel inventory, sample rooms, amenities, booki
 - Sign in as admin and review seeded inventory, users, revenue, and bookings
 - Access H2 console for inspection during development
 
-## Demo Accounts
-
-### Admin
-
-- Email: `admin@luxestay.com`
-- Password: `Admin@123`
-
-### Guest
-
-- Email: `guest@luxestay.com`
-- Password: `Guest@123`
-
-### Extra Seeded Traveler
-
-- Email: `traveler@luxestay.com`
-- Password: `Traveler@123`
-
-## Seeded Mock Data
-
-On backend startup, the application seeds:
-
-- 4 hotels
-- multiple rooms across those hotels
-- amenities and room amenity mappings
-- 3 users including 1 admin
-- sample bookings with `CONFIRMED` and `CANCELLED` states
-
-The seed logic lives in:
 
 
 ## Project Structure
